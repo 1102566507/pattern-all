@@ -4,7 +4,7 @@ package com.wing.adapter.loginAdapter.v2.adapters;
 import com.wing.adapter.loginAdapter.ResultMsg;
 
 /**
- * Created by Tom on 2019/3/16.
+ * Created by wing on 2019/3/16.
  */
 public class RegistForQQAdapter implements RegistAdapter,LoginAdapter {
     public boolean support(Object adapter) {

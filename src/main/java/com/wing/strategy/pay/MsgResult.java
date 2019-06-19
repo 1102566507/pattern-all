@@ -2,7 +2,7 @@ package com.wing.strategy.pay;
 
 /**
  * 支付完成以后的状态
- * Created by Tom.
+ * Created by wing.
  */
 public class MsgResult {
     private int code;

@@ -1,7 +1,7 @@
 package com.wing.delegate.simple;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public class Boss {
 

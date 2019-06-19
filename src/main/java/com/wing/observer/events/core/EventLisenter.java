@@ -7,7 +7,7 @@ import java.util.Map;
 
 /**
  * 监听器，它就是观察者
- * Created by Tom.
+ * Created by wing.
  */
 public class EventLisenter {
 

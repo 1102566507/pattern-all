@@ -2,7 +2,7 @@ package com.wing.strategy.pay;
 
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public class PayStrategyTest {
 

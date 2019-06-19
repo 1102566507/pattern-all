@@ -5,7 +5,7 @@ import com.wing.adapter.loginAdapter.Member;
 import com.wing.adapter.loginAdapter.ResultMsg;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public class SiginService {
 

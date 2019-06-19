@@ -2,7 +2,7 @@ package com.wing.strategy.promotion;
 
 /**
  * 优惠券
- * Created by Tom
+ * Created by wing
  */
 public class CouponStrategy implements PromotionStrategy {
 

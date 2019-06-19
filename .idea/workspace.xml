@@ -4,7 +4,115 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/wing/prototype/simple/Client.java" line="3" mnemonic="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed5cced3-605b-4edd-a225-52f20130fa50" name="Default" comment="" />
+    <list default="true" id="ed5cced3-605b-4edd-a225-52f20130fa50" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/JiNeng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/MingRen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/PrototypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/ResultMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/ResultMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v1/SiginForThirdServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v1/SiginForThirdServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v1/service/SiginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v1/service/SiginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v1/service/SinginForThirdService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v1/service/SinginForThirdService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/IPassportForThird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/IPassportForThird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/PassportForThirdAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/PassportForThirdAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/PassportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/PassportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForQQAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForQQAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForSinaAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForSinaAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForTelAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForTelAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForTokenAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForTokenAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForWechatAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForWechatAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/RegistAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/RegistAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/RegistForQQAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/RegistForQQAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v1/Battercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v1/Battercake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v1/BattercakeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v1/BattercakeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v1/BattercakeWithEgg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v1/BattercakeWithEgg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v1/BattercakeWithEggAndSausage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v1/BattercakeWithEggAndSausage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/BaseBattercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/BaseBattercake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/Battercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/Battercake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/BattercakeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/BattercakeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/BattercakeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/BattercakeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/EggDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/EggDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/SausageDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/battercake/v2/SausageDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/DecoratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/DecoratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/old/ISigninService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/old/ISigninService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/old/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/old/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/old/ResultMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/old/ResultMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/old/SigninService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/old/SigninService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/upgrade/ISiginForThirdService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/upgrade/ISiginForThirdService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/upgrade/SiginForThirdService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/upgrade/SiginForThirdService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/DispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/DispatcherServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/controllers/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/controllers/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/controllers/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/controllers/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/controllers/SystemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/controllers/SystemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/DelegateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/DelegateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/EmployeeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/EmployeeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/EmployeeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/EmployeeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/IEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/IEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/Leader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/Leader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/MouseEventTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/MouseEventTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/core/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/core/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/core/EventLisenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/core/EventLisenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/mouseevent/Keybord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/mouseevent/Keybord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/mouseevent/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/mouseevent/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/mouseevent/MouseEventCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/mouseevent/MouseEventCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/mouseevent/MouseEventType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/events/mouseevent/MouseEventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/gperadvice/GPer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/gperadvice/GPer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/gperadvice/ObserverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/gperadvice/ObserverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/gperadvice/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/gperadvice/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/gperadvice/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/gperadvice/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/guava/GuavaEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/guava/GuavaEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/observer/guava/GuavaEventTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/observer/guava/GuavaEventTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/DbRouteProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/DbRouteProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/IOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/IOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/OrderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/OrderDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/db/DynamicDataSourceEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/db/DynamicDataSourceEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/proxy/OrderServiceDynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/proxy/OrderServiceDynamicProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/proxy/OrderServiceStaticProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/proxy/OrderServiceStaticProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/cglibproxy/CGlibMeipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/cglibproxy/CGlibMeipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/cglibproxy/CglibTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/cglibproxy/CglibTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/cglibproxy/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/cglibproxy/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/Girl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKMeipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKMeipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingMeipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingMeipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/simpleproxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/simpleproxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/simpleproxy/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/simpleproxy/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/simpleproxy/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/simpleproxy/RealSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/simpleproxy/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/simpleproxy/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/FatherProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/FatherProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/ParseResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/ParseResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/TestMobileMessageParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/TestMobileMessageParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/XyPosMessageParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/XyPosMessageParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/MsgResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/MsgResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/PayStrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/PayStrategyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/AliPay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/AliPay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/JDPay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/JDPay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/PayStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/PayStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/UnionPay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/UnionPay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/WechatPay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/WechatPay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/CashbackStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/CashbackStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/CouponStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/CouponStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/EmptyStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/EmptyStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/GroupbuyStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/GroupbuyStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/PromotionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/PromotionActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/PromotionActivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/PromotionActivityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/PromotionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/PromotionStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/PromotionStrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wing/strategy/promotion/PromotionStrategyFactory.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,119 +124,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DispatcherServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/DispatcherServlet.java">
+      <file leaf-file-name="DynamicDataSourceEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/db/DynamicDataSourceEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#578#587#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XyPosMessageParser.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/XyPosMessageParser.java">
+      <file leaf-file-name="DeepCloneTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/prototype/deep/DeepCloneTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestMobileMessageParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/TestMobileMessageParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IMessageParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/IMessageParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageParserFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/MessageParserFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="10" column="77" lean-forward="true" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransDataType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/TransDataType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParseResult.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/ParseResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="68" column="31" lean-forward="true" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.wing.delegate.mvc.DispatcherServlet" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.wing.delegate.mvc.DispatcherServlet">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.wing.delegate.mvc.DispatcherServlet</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">com.wing.delegate.mvc.controllers.MemberController</node>
-                <node x="0.0" y="75.0">com.wing.delegate.mvc.DispatcherServlet</node>
-                <node x="0.0" y="225.0">com.wing.delegate.mvc.controllers.OrderController</node>
-                <node x="0.0" y="150.0">com.wing.delegate.mvc.controllers.SystemController</node>
-              </nodes>
-              <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="-57.5" y="123.5" />
-              <SelectedNodes />
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemberController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/controllers/MemberController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SystemController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/controllers/SystemController.java">
+      <file leaf-file-name="JiNeng.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/JiNeng.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MingRen.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/MingRen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrototypeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/PrototypeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WingInvocationHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WingMeipo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingMeipo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WingProxy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-66">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WingProxyTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-23">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,25 +239,23 @@
       <find>hasReadResolveMethod</find>
       <find>readResolveMethod</find>
       <find>gupao</find>
-      <find>Tom</find>
       <find>import com.wing.pattern.adapter.loginAdapter.ResultMsg;</find>
       <find>    </find>
       <find>paramValues</find>
+      <find>Tom</find>
     </findStrings>
     <replaceStrings>
       <replace />
-      <replace>wing</replace>
       <replace>import com.wing.adapter.loginAdapter.ResultMsg;</replace>
+      <replace>wing</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/old/Member.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v1/service/SiginService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v1/SiginForThirdServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v1/service/SinginForThirdService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForQQAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForSinaAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/adapter/loginAdapter/v2/adapters/LoginForTelAdapter.java" />
@@ -181,10 +269,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/proxy/OrderServiceStaticProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/proxy/OrderServiceDynamicProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/DbRouteProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/Girl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/cglibproxy/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/payport/Payment.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/strategy/pay/Order.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/gpproxy/GPProxyTest.java" />
@@ -204,9 +290,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/gpproxy/GPProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/gpproxy/WingClassLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingMeipo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/delegate/mvc/DispatcherServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/ParseResult.java" />
@@ -214,6 +297,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/MessageParserFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/TestMobileMessageParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/XyPosMessageParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/Girl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKMeipo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingMeipo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxyTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/JiNeng.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/MingRen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/PrototypeTest.java" />
       </list>
     </option>
   </component>
@@ -232,6 +325,7 @@
     <option name="width" value="1376" />
     <option name="height" value="733" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -290,7 +384,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wing" type="462c0819:PsiDirectoryNode" />
-              <item name="delegate" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pattern-all" type="b2602c69:ProjectViewProjectNode" />
@@ -300,7 +394,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wing" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -452,12 +547,12 @@
       <workItem from="1560827786421" duration="5096000" />
       <workItem from="1560845529606" duration="4428000" />
       <workItem from="1560864541818" duration="889000" />
-      <workItem from="1560914246930" duration="10419000" />
+      <workItem from="1560914246930" duration="13277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26271000" />
+    <option name="totallyTimeSpent" value="29129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -480,8 +575,8 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.04467354" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.04475043" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Spring" order="0" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.33505154" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
@@ -503,58 +598,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/cglibproxy/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/proxy/OrderServiceDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/Girl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/DevTools/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/ProxyGenerator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
-          <folding>
-            <element signature="e#4536#4537#0" expanded="true" />
-            <element signature="e#4593#4594#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/DecoratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/decorator/passport/upgrade/ISiginForThirdService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -603,71 +646,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKMeipo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/staticproxy/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingMeipo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-611">
-          <caret line="91" column="64" selection-start-line="91" selection-start-column="64" selection-end-line="91" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,9 +676,6 @@
           <caret line="17" column="24" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/delegate/simple/Boss.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -909,8 +888,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/strategy/parser/XyPosMessageParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        <state relative-caret-position="220">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/Girl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/jdkproxy/JDKMeipo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingMeipo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dynamicproxy/wingproxy/WingProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/proxy/dbroute/db/DynamicDataSourceEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/prototype/deep/DeepCloneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/PrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/JiNeng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wing/prototype/practice/MingRen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

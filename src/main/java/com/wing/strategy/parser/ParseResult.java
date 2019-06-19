@@ -3,9 +3,9 @@ package com.wing.strategy.parser;
 
 public class ParseResult {
 
-    //private CustomerDto customer;
+    //private CuswingerDto cuswinger;
     //
-    //private CustomerDto targetCustomer;
+    //private CuswingerDto targetCuswinger;
     //
     //private DeviceDto device;
     //
@@ -17,20 +17,20 @@ public class ParseResult {
     //
     //private TransactionAccountDto targetAccount;
     //
-    //public CustomerDto getCustomer() {
-    //    return customer;
+    //public CuswingerDto getCuswinger() {
+    //    return cuswinger;
     //}
     //
-    //public void setCustomer(CustomerDto customer) {
-    //    this.customer = customer;
+    //public void setCuswinger(CuswingerDto cuswinger) {
+    //    this.cuswinger = cuswinger;
     //}
     //
-    //public CustomerDto getTargetCustomer() {
-    //    return targetCustomer;
+    //public CuswingerDto getTargetCuswinger() {
+    //    return targetCuswinger;
     //}
     //
-    //public void setTargetCustomer(CustomerDto targetCustomer) {
-    //    this.targetCustomer = targetCustomer;
+    //public void setTargetCuswinger(CuswingerDto targetCuswinger) {
+    //    this.targetCuswinger = targetCuswinger;
     //}
     //
     //public DeviceDto getDevice() {

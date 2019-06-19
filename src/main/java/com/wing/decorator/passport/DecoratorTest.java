@@ -5,7 +5,7 @@ import com.wing.decorator.passport.upgrade.ISiginForThirdService;
 import com.wing.decorator.passport.upgrade.SiginForThirdService;
 
 /**
- * Created by Tom on 2019/3/17.
+ * Created by wing on 2019/3/17.
  */
 public class DecoratorTest {
 

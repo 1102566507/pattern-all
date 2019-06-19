@@ -5,7 +5,7 @@ import com.wing.adapter.loginAdapter.ResultMsg;
 
 /**
  * 只扩展
- * Created by Tom on 2019/3/16.
+ * Created by wing on 2019/3/16.
  */
 public interface IPassportForThird {
 

@@ -1,7 +1,7 @@
 package com.wing.proxy.simpleproxy;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public interface Subject {
     void request();

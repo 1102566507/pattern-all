@@ -3,9 +3,6 @@ package com.wing.proxy.dynamicproxy.wingproxy;
 import com.wing.proxy.dynamicproxy.jdkproxy.Girl;
 import com.wing.proxy.staticproxy.Person;
 
-/**
- * Created by Tom on 2019/3/10.
- */
 public class WingProxyTest {
 
     public static void main(String[] args) {

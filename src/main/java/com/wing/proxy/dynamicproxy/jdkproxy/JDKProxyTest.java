@@ -4,11 +4,8 @@ import com.wing.proxy.staticproxy.Person;
 import sun.misc.ProxyGenerator;
 
 import java.io.FileOutputStream;
-import java.lang.reflect.Method;
 
-/**
- * Created by Tom on 2019/3/10.
- */
+
 public class JDKProxyTest {
 
     public static void main(String[] args) {

@@ -5,7 +5,7 @@ import com.wing.decorator.passport.old.ISigninService;
 import com.wing.decorator.passport.old.ResultMsg;
 
 /**
- * Created by Tom on 2019/3/17.
+ * Created by wing on 2019/3/17.
  */
 public class SiginForThirdService implements ISiginForThirdService {
 

@@ -3,7 +3,7 @@ package com.wing.strategy.promotion;
 
 /**
  * 促销活动
- * Created by Tom
+ * Created by wing
  */
 public class PromotionActivityTest {
     public static void main(String[] args) {

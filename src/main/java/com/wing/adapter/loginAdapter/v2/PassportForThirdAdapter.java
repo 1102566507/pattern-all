@@ -6,7 +6,7 @@ import com.wing.adapter.loginAdapter.v2.adapters.*;
 
 /**
  * 结合策略模式、工厂模式、适配器模式
- * Created by Tom on 2019/3/16.
+ * Created by wing on 2019/3/16.
  */
 public class PassportForThirdAdapter extends SiginService implements IPassportForThird {
 

@@ -1,7 +1,7 @@
 package com.wing.decorator.passport.old;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public interface ISigninService {
     ResultMsg regist(String username, String password);

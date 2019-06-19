@@ -3,7 +3,7 @@ package com.wing.proxy.dynamicproxy.cglibproxy;
 import org.springframework.cglib.core.DebuggingClassWriter;
 
 /**
- * Created by Tom on 2019/3/11.
+ * Created by wing on 2019/3/11.
  */
 public class CglibTest {
     public static void main(String[] args) {
@@ -25,7 +25,7 @@ public class CglibTest {
 
             System.setProperty(DebuggingClassWriter.DEBUG_LOCATION_PROPERTY,"E://cglib_proxy_classes");
 
-            Customer obj = (Customer) new CGlibMeipo().getInstance(Customer.class);
+            Cuswinger obj = (Cuswinger) new CGlibMeipo().getInstance(Cuswinger.class);
             System.out.println(obj);
             obj.findLove();
         } catch (Exception e) {

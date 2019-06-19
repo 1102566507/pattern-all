@@ -5,9 +5,6 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
-/**
- * Created by Tom on 2019/3/10.
- */
 public class JDKMeipo implements InvocationHandler {
 
     private Object target;

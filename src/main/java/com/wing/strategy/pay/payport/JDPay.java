@@ -2,7 +2,7 @@ package com.wing.strategy.pay.payport;
 
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public class JDPay extends Payment {
 

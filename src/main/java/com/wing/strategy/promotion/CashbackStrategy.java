@@ -2,7 +2,7 @@ package com.wing.strategy.promotion;
 
 /**
  * 返现活动
- * Created by Tom
+ * Created by wing
  */
 public class CashbackStrategy implements PromotionStrategy {
 

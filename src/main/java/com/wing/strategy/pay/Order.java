@@ -5,7 +5,7 @@ import com.wing.strategy.pay.payport.PayStrategy;
 import com.wing.strategy.pay.payport.Payment;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public class Order {
     private String uid;

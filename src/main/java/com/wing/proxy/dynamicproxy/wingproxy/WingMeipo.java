@@ -2,9 +2,6 @@ package com.wing.proxy.dynamicproxy.wingproxy;
 
 import java.lang.reflect.Method;
 
-/**
- * Created by Tom on 2019/3/10.
- */
 public class WingMeipo implements WingInvocationHandler {
     private Object target;
     public Object getInstance(Object person) throws Exception{

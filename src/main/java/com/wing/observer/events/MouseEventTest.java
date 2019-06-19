@@ -6,7 +6,7 @@ import com.wing.observer.events.mouseevent.MouseEventCallback;
 import com.wing.observer.events.mouseevent.MouseEventType;
 
 /**
- * Created by Tom on 2019/3/17.
+ * Created by wing on 2019/3/17.
  */
 public class MouseEventTest {
     public static void main(String[] args) {

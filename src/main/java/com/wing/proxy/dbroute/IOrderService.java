@@ -1,7 +1,7 @@
 package com.wing.proxy.dbroute;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public interface IOrderService {
     int createOrder(Order order);

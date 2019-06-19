@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * 用来生成源代码的工具类
- * Created by Tom.
+ * Created by wing.
  */
 public class WingProxy {
 

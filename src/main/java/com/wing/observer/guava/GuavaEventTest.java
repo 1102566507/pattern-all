@@ -4,7 +4,7 @@ package com.wing.observer.guava;
 import com.google.common.eventbus.EventBus;
 
 /**
- * Created by Tom on 2019/3/17.
+ * Created by wing on 2019/3/17.
  */
 public class GuavaEventTest {
 
@@ -13,7 +13,7 @@ public class GuavaEventTest {
         EventBus eventBus = new EventBus();
         GuavaEvent guavaEvent = new GuavaEvent();
         eventBus.register(guavaEvent);
-        eventBus.post("Tom");
+        eventBus.post("wing");
 
         //从Struts到SpringMVC的升级
         //因为Struts面向的类，而SpringMVC面向的是方法

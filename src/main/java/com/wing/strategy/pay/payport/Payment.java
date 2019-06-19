@@ -5,7 +5,7 @@ import com.wing.strategy.pay.MsgResult;
 
 /**
  * 支付渠道
- * Created by Tom.
+ * Created by wing.
  */
 public abstract class Payment {
 

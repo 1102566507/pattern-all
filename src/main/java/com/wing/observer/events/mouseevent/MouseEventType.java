@@ -1,7 +1,7 @@
 package com.wing.observer.events.mouseevent;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public interface MouseEventType {
     //单击

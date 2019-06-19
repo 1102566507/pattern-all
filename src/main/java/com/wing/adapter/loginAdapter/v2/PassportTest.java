@@ -2,7 +2,7 @@ package com.wing.adapter.loginAdapter.v2;
 
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public class PassportTest {
 

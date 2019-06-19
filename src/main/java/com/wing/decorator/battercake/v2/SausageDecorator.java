@@ -1,7 +1,7 @@
 package com.wing.decorator.battercake.v2;
 
 /**
- * Created by Tom on 2019/3/17.
+ * Created by wing on 2019/3/17.
  */
 public class SausageDecorator extends BattercakeDecorator {
     public SausageDecorator(Battercake battercake) {

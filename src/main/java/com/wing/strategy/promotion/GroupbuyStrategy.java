@@ -2,7 +2,7 @@ package com.wing.strategy.promotion;
 
 /**
  * 拼团优惠
- * Created by Tom
+ * Created by wing
  */
 public class GroupbuyStrategy implements PromotionStrategy{
 

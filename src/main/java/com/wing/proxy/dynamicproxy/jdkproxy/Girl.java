@@ -3,9 +3,6 @@ package com.wing.proxy.dynamicproxy.jdkproxy;
 
 import com.wing.proxy.staticproxy.Person;
 
-/**
- * Created by Tom on 2019/3/10.
- */
 public class Girl implements Person {
     public int findLove() {
         System.out.println("高富帅");

@@ -2,7 +2,7 @@ package com.wing.strategy.promotion;
 
 /**
  * 优惠活动
- * Created by Tom
+ * Created by wing
  */
 public class PromotionActivity {
     private PromotionStrategy promotionStrategy;

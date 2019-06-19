@@ -1,7 +1,7 @@
 package com.wing.strategy.promotion;
 /**
  * 无优惠
- * Created by Tom
+ * Created by wing
  */
 public class EmptyStrategy implements PromotionStrategy {
     public void doPromotion() {

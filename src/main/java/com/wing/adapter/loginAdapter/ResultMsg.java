@@ -1,7 +1,7 @@
 package com.wing.adapter.loginAdapter;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public class ResultMsg {
 

@@ -4,7 +4,7 @@ package com.wing.observer.events.mouseevent;
 import com.wing.observer.events.core.EventLisenter;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public class Mouse extends EventLisenter {
 

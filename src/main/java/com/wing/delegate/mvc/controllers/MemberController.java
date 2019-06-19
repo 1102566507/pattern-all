@@ -1,7 +1,7 @@
 package com.wing.delegate.mvc.controllers;
 
 /**
- * Created by Tom.
+ * Created by wing.
  */
 public class MemberController {
 
