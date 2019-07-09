@@ -25,7 +25,7 @@ public class CglibTest {
 
             System.setProperty(DebuggingClassWriter.DEBUG_LOCATION_PROPERTY,"E://cglib_proxy_classes");
 
-            Cuswinger obj = (Cuswinger) new CGlibMeipo().getInstance(Cuswinger.class);
+            Customer obj = (Customer) new CGlibMeipo().getInstance(Customer.class);
             System.out.println(obj);
             obj.findLove();
         } catch (Exception e) {

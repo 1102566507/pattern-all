@@ -34,57 +34,57 @@ public class DispatcherServlet extends HttpServlet{
         }
     }
 
-    private void doDispatch(HttpServletRequest request, HttpServletResponse response) throws Exception{
+    //private void doDispatch(HttpServletRequest request, HttpServletResponse response) throws Exception{
+    //
+    //    String uri = request.getRequestURI();
+    //
+    //    String mid = request.getParameter("mid");
+    //
+    //    if("getMemberById".equals(uri)){
+    //        new MemberController().getMemberById(mid);
+    //    }else if("getOrderById".equals(uri)){
+    //        new OrderController().getOrderById(mid);
+    //    }else if("logout".equals(uri)){
+    //        new SystemController().logout();
+    //    }else {
+    //        response.getWriter().write("404 Not Found!!");
+    //    }
+    //
+    //}
 
-        String uri = request.getRequestURI();
 
-        String mid = request.getParameter("mid");
+    private void doDispatch(HttpServletRequest request, HttpServletResponse response){
 
-        if("getMemberById".equals(uri)){
-            new MemberController().getMemberById(mid);
-        }else if("getOrderById".equals(uri)){
-            new OrderController().getOrderById(mid);
-        }else if("logout".equals(uri)){
-            new SystemController().logout();
-        }else {
-            response.getWriter().write("404 Not Found!!");
+        //1、获取用户请求的url
+        //   如果按照J2EE的标准、每个url对对应一个Serlvet，url由浏览器输入
+       String uri = request.getRequestURI();
+
+        //2、Servlet拿到url以后，要做权衡（要做判断，要做选择）
+        //   根据用户请求的URL，去找到这个url对应的某一个java类的方法
+
+        //3、通过拿到的URL去handlerMapping（我们把它认为是策略常量）
+        Handler handle = null;
+        for (Handler h: handlerMapping) {
+            if(uri.equals(h.getUrl())){
+                handle = h;
+                break;
+            }
         }
 
+        //4、将具体的任务分发给Method（通过反射去调用其对应的方法）
+        Object object = null;
+        try {
+            object = handle.getMethod().invoke(handle.getController(),request.getParameter("mid"));
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
+        } catch (InvocationTargetException e) {
+            e.printStackTrace();
+        }
+
+        //5、获取到Method执行的结果，通过Response返回出去
+//        response.getWriter().write();
+
     }
-
-
-//    private void doDispatch(HttpServletRequest request, HttpServletResponse response){
-//
-//        //1、获取用户请求的url
-//        //   如果按照J2EE的标准、每个url对对应一个Serlvet，url由浏览器输入
-//       String uri = request.getRequestURI();
-//
-//        //2、Servlet拿到url以后，要做权衡（要做判断，要做选择）
-//        //   根据用户请求的URL，去找到这个url对应的某一个java类的方法
-//
-//        //3、通过拿到的URL去handlerMapping（我们把它认为是策略常量）
-//        Handler handle = null;
-//        for (Handler h: handlerMapping) {
-//            if(uri.equals(h.getUrl())){
-//                handle = h;
-//                break;
-//            }
-//        }
-//
-//        //4、将具体的任务分发给Method（通过反射去调用其对应的方法）
-//        Object object = null;
-//        try {
-//            object = handle.getMethod().invoke(handle.getController(),request.getParameter("mid"));
-//        } catch (IllegalAccessException e) {
-//            e.printStackTrace();
-//        } catch (InvocationTargetException e) {
-//            e.printStackTrace();
-//        }
-//
-//        //5、获取到Method执行的结果，通过Response返回出去
-////        response.getWriter().write();
-//
-//    }
 
 
     protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

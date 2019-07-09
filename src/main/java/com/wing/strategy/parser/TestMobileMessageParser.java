@@ -15,9 +15,9 @@ public class TestMobileMessageParser implements IMessageParser {
         //JsonNode node = JsonUtils.parse(message);
         //parseResult = new ParseResult();
         ////源客户
-        //CuswingerDto cuswinger = new CuswingerDto(node.get("姓名").asText(), node.get("身份证").asText(), "1", null, null);
+        //CustomerDto cuswinger = new CustomerDto(node.get("姓名").asText(), node.get("身份证").asText(), "1", null, null);
         ////目标客户
-        //CuswingerDto targetCuswinger = new CuswingerDto(node.get("姓名").asText(), node.get("身份证").asText(), "1", null, null);
+        //CustomerDto targetCustomer = new CustomerDto(node.get("姓名").asText(), node.get("身份证").asText(), "1", null, null);
         ////设备
         //DeviceDto device;
         //String deviceNumber = node.get("设备编号").asText();
@@ -34,8 +34,8 @@ public class TestMobileMessageParser implements IMessageParser {
         //TransactionDto transaction = new TransactionDto(node.get("进件ID").asText(), LocalDateTime.parse(node.get("交易时间").asText()), node.get("交易方式").asText(), new BigDecimal(node.get("交易金额").asText()), node.get("交易地区").asText(), "手机银行");
         ////解析结果
         //parseResult.setTransaction(transaction);
-        //parseResult.setCuswinger(cuswinger);
-        //parseResult.setTargetCuswinger(targetCuswinger);
+        //parseResult.setCustomer(cuswinger);
+        //parseResult.setTargetCustomer(targetCustomer);
         //parseResult.setDevice(device);
         //parseResult.setAccount(account);
         //parseResult.setTargetAccount(targetAccount);

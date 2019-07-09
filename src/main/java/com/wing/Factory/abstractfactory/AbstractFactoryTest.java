@@ -7,7 +7,7 @@ public class AbstractFactoryTest {
 
     public static void main(String[] args) {
 
-        JavaCourseFactory factory = new JavaCourseFactory();
+        JavaICourseFactory factory = new JavaICourseFactory();
 
         factory.createNote().edit();
         factory.createVideo().record();

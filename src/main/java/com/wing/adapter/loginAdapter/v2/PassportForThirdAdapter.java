@@ -36,7 +36,6 @@ public class PassportForThirdAdapter extends SiginService implements IPassportFo
         try{
             //适配器不一定要实现接口
             LoginAdapter adapter = clazz.newInstance();
-
             //判断传过来的适配器是否能处理指定的逻辑
             if(adapter.support(adapter)){
                 return adapter.login(key,adapter);
